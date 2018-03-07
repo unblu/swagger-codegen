@@ -4,7 +4,7 @@
 	
 	<groupId>io.swagger</groupId>
 	<artifactId>swagger-java-vertx-server-rx</artifactId>
-	<version>1.0.0-SNAPSHOT</version>
+	<version>1.0.0.unblu-2</version>
 	<packaging>jar</packaging>
   
   	<name>Swagger Petstore</name>
